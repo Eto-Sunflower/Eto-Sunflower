@@ -1,81 +1,148 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=180&section=header&text=Jasmim%20Yarynny&fontSize=45&fontColor=FF7BAA&animation=fadeIn&fontAlignY=35&desc=code%20%E2%80%A2%20create%20%E2%80%A2%20automate&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=190&section=header&text=Jasmim%20Yarynny&fontSize=48&fontColor=FF7BAA&animation=fadeIn&fontAlignY=35&desc=code%20%E2%80%A2%20create%20%E2%80%A2%20automate&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-## 🌸 Olá, eu sou a Jasmim
+# ୨୧ Jasmim Yarynny ୨୧
 
-`JavaScript` • `Python` • `ABAP` • `HTML` • `CSS`
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=22&pause=1000&color=FF7BAA&center=true&vCenter=true&width=500&lines=JavaScript+%E2%80%A2+Python+%E2%80%A2+ABAP;HTML+%E2%80%A2+CSS;Code+%E2%80%A2+Create+%E2%80%A2+Automate" />
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230"/>
+<br>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220">
 
 </div>
 
 ---
 
-### 🎀 Sobre mim
+<div align="center">
 
-- 💻 Estudando e criando projetos pessoais
-- 🤖 Desenvolvendo bots e dashboards
-- ⚙️ Explorando automações e SAP ABAP
-- 🌸 Criadora do projeto Eto
-- 🐱 Café, gatos e código
+## ♡ About Me ♡
 
----
-
-### 🛠️ Stacks
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,github,vscode" />
+creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦ SAP ABAP
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Creator%20of-Eto-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
+
+<img src="https://img.shields.io/badge/Favorite-Coffee-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
+
+<img src="https://img.shields.io/badge/Likes-Cats-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
+
+<img src="https://img.shields.io/badge/Focus-Coding-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ♡ Tech Stack ♡
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ABAP-FF7BAA?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP-FFD6E7?style=for-the-badge&logo=sap&logoColor=FF7BAA"/>
+<img src="https://img.shields.io/badge/ABAP-FFB7D5?style=for-the-badge&logo=sap&logoColor=white"/>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+
+## ♡ GitHub Statistics ♡
+
+</div>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eto-Sunflower&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF7BAA&icon_color=FF7BAA"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eto-Sunflower&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eto-Sunflower&layout=compact&theme=rose_pine&hide_border=true&title_color=FF7BAA"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eto-Sunflower&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🌸 Contribuições
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Eto-Sunflower&theme=rose-pine&hide_border=true&ring=FF7BAA&fire=FF7BAA&currStreakLabel=FF7BAA"/>
+## ♡ Contribution Streak ♡
+
+<img src="https://streak-stats.demolab.com?user=Eto-Sunflower&theme=rose-pine&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🐍 Snake dos commits
+<div align="center">
+
+## ♡ Current Status ♡
+
+</div>
+
+```txt
+✦ status      : building random things
+✦ currently   : coding
+✦ project     : Eto
+✦ mood        : pink aesthetic
+✦ caffeine    : 100%
+```
+
+---
 
 <div align="center">
 
-![snake gif](https://github.com/Eto-Sunflower/Eto-Sunflower/blob/output/github-snake.svg)
+## ♡ Favorite Technologies ♡
+
+<img src="https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=FF7BAA"/>
+
+<img src="https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=FF7BAA"/>
+
+<img src="https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=FF7BAA"/>
+
+<img src="https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=FF7BAA"/>
+
+<img src="https://img.shields.io/badge/ABAP-FFD6E7?style=for-the-badge&logo=sap&logoColor=FF7BAA"/>
 
 </div>
 
 ---
 
-### 💌 Onde me encontrar
+<div align="center">
+
+## ♡ Profile Views ♡
+
+<img src="https://komarev.com/ghpvc/?username=Eto-Sunflower&style=for-the-badge&color=ffb7d5"/>
+
+</div>
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFD6E7?style=for-the-badge&logo=github&logoColor=FF7BAA)](https://github.com/Eto-Sunflower)
-[![Instagram](https://img.shields.io/badge/Instagram-FFD6E7?style=for-the-badge&logo=instagram&logoColor=FF7BAA)](#)
-[![Discord](https://img.shields.io/badge/Discord-FFD6E7?style=for-the-badge&logo=discord&logoColor=FF7BAA)](#)
+## ♡ Connect ♡
+
+<a href="https://github.com/Eto-Sunflower">
+<img src="https://img.shields.io/badge/GitHub-FFD6E7?style=for-the-badge&logo=github&logoColor=FF7BAA"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ୨୧ code • create • automate ୨୧
 
 </div>
 
