@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=190&section=header&text=Jasmim%20Yarynny&fontSize=48&fontColor=FF7BAA&animation=fadeIn&fontAlignY=35&desc=code%20%E2%80%A2%20create%20%E2%80%A2%20automate&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=200&section=header&text=Jasmim%20Yarynny&fontSize=48&fontColor=FF7BAA&animation=fadeIn&fontAlignY=35&desc=code%20%E2%80%A2%20create%20%E2%80%A2%20automate&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-# ୨୧ Jasmim Yarynny ୨୧
+# ♡ Jasmim Yarynny ♡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=22&pause=1000&color=FF7BAA&center=true&vCenter=true&width=500&lines=JavaScript+%E2%80%A2+Python+%E2%80%A2+ABAP;HTML+%E2%80%A2+CSS;Code+%E2%80%A2+Create+%E2%80%A2+Automate" />
 
 <br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
 
 </div>
 
@@ -16,27 +16,21 @@
 
 <div align="center">
 
-## ♡ About Me ♡
+## ୨୧ About Me ୨୧
 
 </div>
 
 <div align="center">
 
-creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦ SAP ABAP
+creating projects ✦ dashboards ✦ bots ✦ automation ✦ SAP ABAP
 
-</div>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/Creator-Eto-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Coffee-Lover-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
 
-<img src="https://img.shields.io/badge/Creator%20of-Eto-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
-
-<img src="https://img.shields.io/badge/Favorite-Coffee-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
-
-<img src="https://img.shields.io/badge/Likes-Cats-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
-
-<img src="https://img.shields.io/badge/Focus-Coding-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
+<img src="https://img.shields.io/badge/Cat-Person-FFD6E7?style=for-the-badge&labelColor=FFF5F8&color=FFB7D5"/>
 
 </div>
 
@@ -44,7 +38,7 @@ creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦
 
 <div align="center">
 
-## ♡ Tech Stack ♡
+## ୨୧ Technologies ୨୧
 
 <br>
 
@@ -60,25 +54,17 @@ creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦
 
 <div align="center">
 
-## ♡ GitHub Statistics ♡
+## ୨୧ Favorite Stack ୨୧
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=FF7BAA"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=FF7BAA"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eto-Sunflower&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img src="https://img.shields.io/badge/ABAP-FFD6E7?style=for-the-badge&logo=sap&logoColor=FF7BAA"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eto-Sunflower&layout=compact&theme=rose_pine&hide_border=true"/>
+<img src="https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=FF7BAA"/>
 
-</div>
-
----
-
-<div align="center">
-
-## ♡ Contribution Streak ♡
-
-<img src="https://streak-stats.demolab.com?user=Eto-Sunflower&theme=rose-pine&hide_border=true"/>
+<img src="https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=FF7BAA"/>
 
 </div>
 
@@ -86,15 +72,15 @@ creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦
 
 <div align="center">
 
-## ♡ Current Status ♡
+## ୨୧ Current Status ୨୧
 
 </div>
 
 ```txt
-✦ status      : building random things
-✦ currently   : coding
+✦ status      : building things
 ✦ project     : Eto
-✦ mood        : pink aesthetic
+✦ focus       : automation
+✦ mood        : pastel pink
 ✦ caffeine    : 100%
 ```
 
@@ -102,25 +88,7 @@ creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦
 
 <div align="center">
 
-## ♡ Favorite Technologies ♡
-
-<img src="https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=FF7BAA"/>
-
-<img src="https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=FF7BAA"/>
-
-<img src="https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=FF7BAA"/>
-
-<img src="https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=FF7BAA"/>
-
-<img src="https://img.shields.io/badge/ABAP-FFD6E7?style=for-the-badge&logo=sap&logoColor=FF7BAA"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ♡ Profile Views ♡
+## ୨୧ Visitor Counter ୨୧
 
 <img src="https://komarev.com/ghpvc/?username=Eto-Sunflower&style=for-the-badge&color=ffb7d5"/>
 
@@ -130,7 +98,7 @@ creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦
 
 <div align="center">
 
-## ♡ Connect ♡
+## ୨୧ Connect ୨୧
 
 <a href="https://github.com/Eto-Sunflower">
 <img src="https://img.shields.io/badge/GitHub-FFD6E7?style=for-the-badge&logo=github&logoColor=FF7BAA"/>
@@ -142,7 +110,7 @@ creating personal projects ✦ developing bots ✦ dashboards ✦ automation ✦
 
 <div align="center">
 
-### ୨୧ code • create • automate ୨୧
+### ♡ code • create • automate ♡
 
 </div>
 
