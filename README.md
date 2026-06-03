@@ -1,96 +1,95 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=180&section=header&text=Jasmim%20Yarynny&fontSize=42&fontColor=FF7BAA&animation=fadeIn"/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,FFB7D5&height=220&section=header&text=Jasmim%20Yarynny&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Explorando%20universos,%20criando%20solucoes.&descAlignY=65"/>
+# Jasmim Yarynny
 
-</div>
+### code • create • automate
 
 <br>
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode" />
 
-<td width="35%">
+<br><br>
 
-### About
+<img src="https://img.shields.io/badge/ABAP-FFD6E7?style=for-the-badge&logo=sap&logoColor=FF7BAA"/>
+
+</div>
+
+---
+
+## ◇ About
 
 ```txt
-Computer Science
+Developer
 
-Discord Bots
+▸ JavaScript
+▸ Python
+▸ ABAP
+▸ HTML
+▸ CSS
 
-SAP ABAP
-
-Automation
-
-Personal Projects
+Creating bots, dashboards and random projects.
 ```
 
-### Stack
+---
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,git" />
+## ◇ Current Focus
 
-<br>
-
-<img src="https://img.shields.io/badge/ABAP-FFB7D5?style=for-the-badge&logo=sap&logoColor=white"/>
-
-</td>
-
-<td width="65%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eto-Sunflower&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+```txt
+Project     : Eto
+Focus       : Automation
+Learning    : New things every day
+Status      : Building
+```
 
 ---
 
-### Technologies
+## ◇ Technologies
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-FFF0F5?style=for-the-badge&logo=javascript&logoColor=FF7BAA"/>
 
-<img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-FFF0F5?style=for-the-badge&logo=python&logoColor=FF7BAA"/>
 
-<img src="https://img.shields.io/badge/ABAP-1A1B27?style=for-the-badge&logo=sap&logoColor=00A1E4"/>
+<img src="https://img.shields.io/badge/ABAP-FFF0F5?style=for-the-badge&logo=sap&logoColor=FF7BAA"/>
 
-<img src="https://img.shields.io/badge/HTML5-1A1B27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML5-FFF0F5?style=for-the-badge&logo=html5&logoColor=FF7BAA"/>
 
-<img src="https://img.shields.io/badge/CSS3-1A1B27?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-FFF0F5?style=for-the-badge&logo=css3&logoColor=FF7BAA"/>
 
 </div>
 
 ---
 
-### Statistics
+## ◇ Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eto-Sunflower&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Eto-Sunflower&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </div>
 
 ---
 
-### Contributions
+## ◇ Profile
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eto-Sunflower&theme=tokyo-night&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Eto-Sunflower&style=for-the-badge&color=ffb7d5&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-### Profile Views
+## ◇ Connect
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Eto-Sunflower&style=for-the-badge&color=ff69b4"/>
+<a href="https://github.com/Eto-Sunflower">
+<img src="https://img.shields.io/badge/GitHub-FFD6E7?style=for-the-badge&logo=github&logoColor=FF7BAA"/>
+</a>
 
 </div>
 
@@ -101,4 +100,6 @@ Personal Projects
 code • create • automate
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=120&section=footer"/>
 
